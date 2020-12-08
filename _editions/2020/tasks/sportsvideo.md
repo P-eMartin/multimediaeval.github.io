@@ -29,9 +29,7 @@ Our focus is on recordings that have been made by widespread and cheap video cam
 #### Evaluation Methodology
 Twenty stroke classes are considered according to the rules of table tennis. This taxonomy was designed with professional table tennis teachers. We are working on videos recorded at the Faculty of Sports of the University of Bordeaux. Students are the sportsmen filmed and the teachers are supervising exercises conducted during the recording sessions. The recordings are markerless and allow the players to perform in natural conditions. In each video file a table tennis stroke is delimited by temporal borders. The latter are supplied in an xml file. For each test video the participants are invited to produce an xml file in which each stroke is labeled accordingly to a given taxonomy. Submissions will be evaluated in terms of accuracy per class of a stroke and of global accuracy.
 
-#### References and recommended reading
-<!-- # Please use the ACM format for references https://www.acm.org/publications/authors/reference-formatting (but no DOI needed)-->
-<!-- # The paper title should be a hyperlink leading to the paper online-->
+## References and recommended reading
 
 [Crisp Project](https://github.com/P-eMartin/crisp)
 
@@ -47,7 +45,7 @@ Chunhui Gu, Chen Sun, Sudheendra Vijayanarasimhan, Caroline Pantofaru, David A. 
 
 Khurram Soomro, Amir Roshan Zamir, and Mubarak Shah. 2012. [UCF101: A dataset of 101 hu- man actions classes from videos in the wild.](https://arxiv.org/pdf/1212.0402.pdf) CoRR 1212.0402 (2012).
 
-#### Task Organizers
+## Task Organizers
 You can email us directly at mediaeval.sport.task (at) diff.u-bordeaux.fr
 
 Jenny Benois-Pineau, Univ. Bordeaux, CNRS,  Bordeaux INP, LaBRI, UMR 5800, F-33400, Talence, France (jenny.benois-pineau (at) u-bordeaux.fr)<br>
@@ -58,12 +56,11 @@ Jordan Calandre, MIA, University of La Rochelle, La Rochelle, France<br>
 Julien Morlier, IMS, University of Bordeaux, Talence, France<br>
 Laurent Mascarilla, MIA, University of La Rochelle, La Rochelle, France
 
+## Task Schedule
 
-#### Task Schedule
-* 31 July: Data release <!-- # Replace XX with your date. Latest possible is 31 July-->
-* 31 October: Runs due <!-- # Replace XX with your date. Latest possible is 31 October-->
-* 15 November: Results returned  <!-- Fixed. Please do not change-->
-* 30 November: Working notes paper  <!-- Fixed. Please do not change-->
-* Early December: MediaEval 2020 Workshop <!-- Fixed. Please do not change-->
-
-Workshop will be held online. Exact dates to be announced.
+* 31 July: Data release 
+* 23 November: Runs due
+* 24 November: Results returned 
+* 30 November: Working notes paper 
+* 11 December: Icebreaker
+* 14-15 December: MediaEval 2020 Workshop online
